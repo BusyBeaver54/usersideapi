@@ -12,7 +12,7 @@ setup(
   description='Библиотека для работы с API запросами ERP UserSide/WorkNet',
   long_description=readme(),
   long_description_content_type='text/markdown',
-  url='https://github.com/BusyBeaver54/usersideap',
+  url='https://github.com/BusyBeaver54/usersideapi',
   packages=find_packages(),
   install_requires=['requests>=2.25.1'],
   classifiers=[
