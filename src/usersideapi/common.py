@@ -1,10 +1,10 @@
 import enum
 import json
 import requests
-from requests.exceptions import HTTPError
+# from requests.exceptions import HTTPError
 from pathlib import Path
 import tempfile
-import shutil
+# import shutil
 import datetime as dt
 
 getRespName = lambda: f'response_{dt.datetime.now():%Y%m%d_%H%M%S%f}.json'
