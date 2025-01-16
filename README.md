@@ -1,1 +1,1 @@
-Библиотека для работы с API запросами ERP UserSide/WorkNet
+API ERP UserSide/WorkNet

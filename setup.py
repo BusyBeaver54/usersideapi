@@ -6,10 +6,10 @@ def readme():
 
 setup(
   name='usersideapi',
-  version='1.0.0',
+  version='1.0.1',
   author='Andrey Litvinov',
   author_email='busybeaver.bb@gmail.com',
-  description='Библиотека для работы с API запросами ERP UserSide/WorkNet',
+  description='API ERP UserSide/WorkNet',
   long_description=readme(),
   long_description_content_type='text/markdown',
   url='https://github.com/BusyBeaver54/usersideapi',
